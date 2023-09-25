@@ -1,0 +1,11 @@
+c:\Users\APM02-63\Desktop\netcore\tiendacampus2023\core\bin\Debug\net7.0\core.deps.json
+c:\Users\APM02-63\Desktop\netcore\tiendacampus2023\core\bin\Debug\net7.0\core.dll
+c:\Users\APM02-63\Desktop\netcore\tiendacampus2023\core\bin\Debug\net7.0\core.pdb
+c:\Users\APM02-63\Desktop\netcore\tiendacampus2023\core\obj\Debug\net7.0\core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\APM02-63\Desktop\netcore\tiendacampus2023\core\obj\Debug\net7.0\core.AssemblyInfoInputs.cache
+c:\Users\APM02-63\Desktop\netcore\tiendacampus2023\core\obj\Debug\net7.0\core.AssemblyInfo.cs
+c:\Users\APM02-63\Desktop\netcore\tiendacampus2023\core\obj\Debug\net7.0\core.csproj.CoreCompileInputs.cache
+c:\Users\APM02-63\Desktop\netcore\tiendacampus2023\core\obj\Debug\net7.0\core.dll
+c:\Users\APM02-63\Desktop\netcore\tiendacampus2023\core\obj\Debug\net7.0\refint\core.dll
+c:\Users\APM02-63\Desktop\netcore\tiendacampus2023\core\obj\Debug\net7.0\core.pdb
+c:\Users\APM02-63\Desktop\netcore\tiendacampus2023\core\obj\Debug\net7.0\ref\core.dll

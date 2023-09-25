@@ -1,0 +1,15 @@
+c:\Users\APM02-63\Desktop\netcore\tiendacampus2023\infraestructure\obj\Debug\net7.0\infraestructure.csproj.AssemblyReference.cache
+c:\Users\APM02-63\Desktop\netcore\tiendacampus2023\infraestructure\obj\Debug\net7.0\infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\APM02-63\Desktop\netcore\tiendacampus2023\infraestructure\obj\Debug\net7.0\infraestructure.AssemblyInfoInputs.cache
+c:\Users\APM02-63\Desktop\netcore\tiendacampus2023\infraestructure\obj\Debug\net7.0\infraestructure.AssemblyInfo.cs
+c:\Users\APM02-63\Desktop\netcore\tiendacampus2023\infraestructure\obj\Debug\net7.0\infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\APM02-63\Desktop\netcore\tiendacampus2023\infraestructure\bin\Debug\net7.0\infraestructure.deps.json
+C:\Users\APM02-63\Desktop\netcore\tiendacampus2023\infraestructure\bin\Debug\net7.0\infraestructure.dll
+C:\Users\APM02-63\Desktop\netcore\tiendacampus2023\infraestructure\bin\Debug\net7.0\infraestructure.pdb
+C:\Users\APM02-63\Desktop\netcore\tiendacampus2023\infraestructure\bin\Debug\net7.0\core.dll
+C:\Users\APM02-63\Desktop\netcore\tiendacampus2023\infraestructure\bin\Debug\net7.0\core.pdb
+C:\Users\APM02-63\Desktop\netcore\tiendacampus2023\infraestructure\obj\Debug\net7.0\infraestructure.csproj.CopyComplete
+C:\Users\APM02-63\Desktop\netcore\tiendacampus2023\infraestructure\obj\Debug\net7.0\infraestructure.dll
+C:\Users\APM02-63\Desktop\netcore\tiendacampus2023\infraestructure\obj\Debug\net7.0\refint\infraestructure.dll
+C:\Users\APM02-63\Desktop\netcore\tiendacampus2023\infraestructure\obj\Debug\net7.0\infraestructure.pdb
+C:\Users\APM02-63\Desktop\netcore\tiendacampus2023\infraestructure\obj\Debug\net7.0\ref\infraestructure.dll
