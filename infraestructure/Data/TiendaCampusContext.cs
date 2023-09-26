@@ -15,7 +15,5 @@ namespace infraestructure.Data
         public DbSet<Pais> Paises { get; set; }
         public DbSet<Departamento> Departamentos { get; set; }
         public DbSet<Ciudad> Ciudades { get; set; }
-    }
-
-    
+    } 
 }
